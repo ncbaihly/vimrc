@@ -1,2 +1,3 @@
 # vimrc
-It's my vimrc
+
+This is my vimrc configuration repository. Fairly simplistic setup.
